@@ -8,8 +8,8 @@ git init
 
 git add .
 
-git commit -m 'xxx'
+git commit -m '...'
 
-git remote add git@....
+git remote add xxx git@....
 
-git push xxx main
+git push xxx
